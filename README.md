@@ -8,7 +8,7 @@ Can find more hookup guidance from: https://learn.sparkfun.com/tutorials/openlog
 
 
 ## Getting Started
-Install Arduino IDE from https://www.arduino.cc/en/software/ 
+Install Arduino IDE from https://www.arduino.cc/en/software/ <br> 
 Flashing data from IMU can be monitored from Arduino IDE Serial Monitor.
 
 ### CMake
