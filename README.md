@@ -4,6 +4,7 @@ This repository contains a C++ project that reads acceleration data from the IMU
 
 ## Introduction
 This project demonstrates how to read acceleration data from the SparkFun OpenLog Artemis IMU. The code is written in C++ and uses CMake for building the project.
+Can find more hookup guidance from: https://learn.sparkfun.com/tutorials/openlog-artemis-hookup-guide 
 
 
 ## Getting Started
