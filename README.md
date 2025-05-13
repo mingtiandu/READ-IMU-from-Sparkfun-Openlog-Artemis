@@ -8,6 +8,8 @@ Can find more hookup guidance from: https://learn.sparkfun.com/tutorials/openlog
 
 
 ## Getting Started
+Install Arduino IDE from https://www.arduino.cc/en/software/ 
+Flashing data from IMU can be monitored from Arduino IDE Serial Monitor.
 
 ### CMake
 To get started with CMake, you must first install CMake.
